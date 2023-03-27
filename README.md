@@ -8,8 +8,4 @@ More testing.
 
 ## Local Dev
 
-1. Open index.html in browser. 
-
-2.Enjoy.
-
-3. uiohbjohhiuoashuiofhaui.
+1. Open index.html in browser.
